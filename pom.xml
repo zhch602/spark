@@ -162,7 +162,7 @@
     <commons.collections.version>3.2.2</commons.collections.version>
     <scala.version>2.12.14</scala.version>
     <scala.binary.version>2.12</scala.binary.version>
-    <scalatest-maven-plugin.version>2.0.0</scalatest-maven-plugin.version>
+    <scalatest-maven-plugin.version>2.0.2</scalatest-maven-plugin.version>
     <scalafmt.parameters>--test</scalafmt.parameters>
     <!-- for now, not running scalafmt as part of default verify pipeline -->
     <scalafmt.skip>true</scalafmt.skip>
@@ -709,7 +709,7 @@
       <dependency>
         <groupId>com.github.luben</groupId>
         <artifactId>zstd-jni</artifactId>
-        <version>1.5.0-2</version>
+        <version>1.5.0-3</version>
       </dependency>
       <dependency>
         <groupId>com.clearspring.analytics</groupId>

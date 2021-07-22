@@ -175,6 +175,9 @@ Categorical components
    CategoricalIndex.codes
    CategoricalIndex.categories
    CategoricalIndex.ordered
+   CategoricalIndex.add_categories
+   CategoricalIndex.as_ordered
+   CategoricalIndex.as_unordered
 
 .. _api.multiindex:
 

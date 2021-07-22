@@ -401,6 +401,9 @@ the ``Series.cat`` accessor.
    Series.cat.categories
    Series.cat.ordered
    Series.cat.codes
+   Series.cat.add_categories
+   Series.cat.as_ordered
+   Series.cat.as_unordered
 
 .. _api.series.plot:
 
